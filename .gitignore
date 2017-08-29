@@ -1,0 +1,8 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+.idea/inspectionProfiles/
+.idea/vcs.xml
+target/generated-sources/
+target/generated-test-sources/
